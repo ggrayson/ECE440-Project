@@ -20,5 +20,5 @@ Instructions for running the project code:
 5. Return to the base directory (where the engine executable is) and open a third Powershell window there
 6. Enter the command "python main.py"
 
-If all goes well the engine should be running in one window, the enemy snake should be running in another window, and the training loop should be running in the third window.
+If all goes well the engine should be running in one window, the enemy snake should be running in another window, and the training loop should be running in the third window. Note that any "tcp 6060" error messages are expected.
 

@@ -13,7 +13,7 @@ Both of these can be installed by running "pip install numpy" and "pip install b
 
 Instructions for running the project code:
 
-1. Open a Powershell window (shift right click in the Window 10 file manager -> Open Powershell window here) in the same directory as the engine executable. 
+1. Open a Powershell window (shift right click in the Windows 10 file browser -> Open Powershell window here) in the same directory as the engine executable. 
 2. Enter the command "./engine"
 3. Open enemy-snake/app and open a Powershell window there
 4. Enter the command "python main.py"
